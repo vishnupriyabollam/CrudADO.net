@@ -1,0 +1,11 @@
+C:\Users\Vishnupriya.Bollam\source\repos\WebapiCrud\WebapiCrud\obj\Debug\netcoreapp2.0\WebapiCrud.csprojAssemblyReference.cache
+C:\Users\Vishnupriya.Bollam\source\repos\WebapiCrud\WebapiCrud\obj\Debug\netcoreapp2.0\WebapiCrud.csproj.CoreCompileInputs.cache
+C:\Users\Vishnupriya.Bollam\source\repos\WebapiCrud\WebapiCrud\obj\Debug\netcoreapp2.0\WebapiCrud.AssemblyInfoInputs.cache
+C:\Users\Vishnupriya.Bollam\source\repos\WebapiCrud\WebapiCrud\obj\Debug\netcoreapp2.0\WebapiCrud.AssemblyInfo.cs
+C:\Users\Vishnupriya.Bollam\source\repos\WebapiCrud\WebapiCrud\bin\Debug\netcoreapp2.0\WebapiCrud.deps.json
+C:\Users\Vishnupriya.Bollam\source\repos\WebapiCrud\WebapiCrud\bin\Debug\netcoreapp2.0\WebapiCrud.runtimeconfig.json
+C:\Users\Vishnupriya.Bollam\source\repos\WebapiCrud\WebapiCrud\bin\Debug\netcoreapp2.0\WebapiCrud.runtimeconfig.dev.json
+C:\Users\Vishnupriya.Bollam\source\repos\WebapiCrud\WebapiCrud\bin\Debug\netcoreapp2.0\WebapiCrud.dll
+C:\Users\Vishnupriya.Bollam\source\repos\WebapiCrud\WebapiCrud\bin\Debug\netcoreapp2.0\WebapiCrud.pdb
+C:\Users\Vishnupriya.Bollam\source\repos\WebapiCrud\WebapiCrud\obj\Debug\netcoreapp2.0\WebapiCrud.dll
+C:\Users\Vishnupriya.Bollam\source\repos\WebapiCrud\WebapiCrud\obj\Debug\netcoreapp2.0\WebapiCrud.pdb
